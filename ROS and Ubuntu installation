@@ -1,1 +1,22 @@
+# Task 0 – ROS Installation
 
+This task involved installing and configuring the Robot Operating System (ROS) environment for robotics development.
+
+## Steps Performed
+
+1. Installed Ubuntu (recommended OS for ROS)
+2. Installed ROS distribution
+3. Configured ROS environment variables
+4. Created a ROS workspace
+5. Tested ROS installation using basic commands
+
+## Commands Used
+
+sudo apt update
+sudo apt install ros-humble-desktop
+
+source /opt/ros/humble/setup.bash
+
+## Outcome
+
+Successfully configured the ROS development environment required for future robotics tasks.
